@@ -1,1 +1,3 @@
 allowing=true
+winlock=false
+winlock2step=false
